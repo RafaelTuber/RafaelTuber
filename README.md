@@ -1,5 +1,6 @@
 ### Hi there 👋
- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here)
+![Profile View Counter](https://komarev.com/ghpvc/?username=RafaelTuber)
+
 <!--
 **RafaelTuber/RafaelTuber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
